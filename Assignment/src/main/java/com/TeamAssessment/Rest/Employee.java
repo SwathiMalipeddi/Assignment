@@ -1,4 +1,4 @@
-package com.TeamAssessment.Rest.Assignment;
+package com.TeamAssessment.Rest;
 
 
 import javax.validation.constraints.Pattern;
