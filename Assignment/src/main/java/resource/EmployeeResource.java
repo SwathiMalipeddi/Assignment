@@ -1,5 +1,7 @@
-package com.TeamAssessment.Rest;
+package resource;
 
+import com.TeamAssessment.Rest.Employee;
+import com.TeamAssessment.Rest.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.Errors;
 import org.springframework.validation.ObjectError;

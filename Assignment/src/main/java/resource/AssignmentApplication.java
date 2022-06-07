@@ -1,4 +1,4 @@
-package com.TeamAssessment.Rest;
+package resource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
